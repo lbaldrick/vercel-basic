@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "MY_KEY": "this is the value"
+    }
+  }
+}
